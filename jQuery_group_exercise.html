@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>jQuery Practice</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <!-- <link rel="stylesheet" type="text/css" media="screen" href="main.css" /> -->
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+        <script type="text/javascript">
+            console.log($);
+            $(document).ready(function(){
+                $("button").click(function(){
+                    $("p").hide();
+
+                    alert("hidden!");
+                })
+            })
+            // $(document.getElementById("button").onclick(alert("you clicked me")));
+
+        </script>
+        <!-- <script src="main.js"></script> -->
+
+    </head>
+    <body>
+        <button id="button" >click me</button>
+        <p>Make me disappear!</p>
+        <div id="container">
+            <div id="click"></div>
+            <div id="hide"></div>
+            <div id="show"></div>
+            <div id="toggle"></div>
+            <div id="slideDown"></div>
+            <div id="slideUp"></div>
+            <div id="slideToggle"></div>
+            <div id="fadeIn"></div>
+            <div id="fadeOut"></div>
+            <div id="addClass"></div>
+            <div id="before"></div>
+            <div id="after"></div>
+            <div id="append"></div>
+            <div id="html"></div>
+            <div id="attr"></div>
+            <div id="val"></div>
+            <div id="text"></div>
+            <div id="data"></div>
+        </div>
+    </body>
+</html>
