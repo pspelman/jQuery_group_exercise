@@ -1,0 +1,81 @@
+div{
+    width: 500px;
+    height: 200px;
+}
+.container{
+    width: 970px;
+    height: fit-content;
+}
+.click{
+    background-color: rgba(0, 255, 102,1);
+    border: 5px solid black;
+}
+.hide{
+    background-color: rgba(0, 255, 102,1);
+    border: 5px solid black;
+    
+}
+.show{
+    background-color: rgba(0, 255, 102,1);
+    border: 5px solid black;
+}
+.toggle{
+    background-color: rgba(0, 255, 102,1);
+    border: 5px solid black;
+}
+.slideDown{
+    background-color: rgba(0, 255, 102,1);
+    border: 5px solid black;
+}
+.slideUp{
+    background-color: rgba(0, 255, 102,1);
+    border: 5px solid black;
+}
+.slideToggle{
+    background-color: rgba(0, 255, 102,1);
+    border: 5px solid black;
+}
+.fadeIn{
+    background-color: rgba(0, 255, 102,1);
+    border: 5px solid black;
+}
+.fadeOut{
+    background-color: rgba(0, 255, 102,1);
+    border: 5px solid black;
+}
+.addClass{
+    background-color: rgba(0, 255, 102,1);
+    border: 5px solid black;
+}
+.before{
+    background-color: rgba(0, 255, 102,1);
+    border: 5px solid black;
+}
+.after{
+    background-color: rgba(0, 255, 102,1);
+    border: 5px solid black;
+}
+.append{
+    background-color: rgba(0, 255, 102,1);
+    border: 5px solid black;
+}
+.html{
+    background-color: rgba(0, 255, 102,1);
+    border: 5px solid black;
+}
+.attr{
+    background-color: rgba(0, 255, 102,1);
+    border: 5px solid black;
+}
+.val{
+    background-color: rgba(0, 255, 102,1);
+    border: 5px solid black;
+}
+.text{
+    background-color: rgba(0, 255, 102,1);
+    border: 5px solid black;
+}
+.data{
+    background-color: rgba(0, 255, 102,1);
+    border: 5px solid black;
+}
