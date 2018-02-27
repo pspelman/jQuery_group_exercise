@@ -6,6 +6,10 @@ div{
     width: 970px;
     height: fit-content;
 }
+
+img{
+    width: 20%;
+}
 .click{
     background-color: rgba(0, 255, 102,1);
     border: 5px solid black;
@@ -78,4 +82,8 @@ div{
 .data{
     background-color: rgba(0, 255, 102,1);
     border: 5px solid black;
+}
+
+.blue {
+    color:red;
 }
